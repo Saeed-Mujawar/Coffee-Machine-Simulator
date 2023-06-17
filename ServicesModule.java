@@ -133,7 +133,7 @@ public class ServicesModule {
         System.out.println("Water: " + water + " ml");
         System.out.println("Milk: " + milk + " ml");
         System.out.println("Beans: " + coffeeBeans + " units");
-        System.out.println("Money in Coffee Machine: Rs." + money);
+        System.out.println("Money in Coffee Machine: $." + money);
     }
 
     public void showAnalytics() {
